@@ -4,7 +4,7 @@ Hello, my name is Macielli 👋
 
 🎓 I study Software Development with a Focus on Back-End at [Cubos Academy](https://cubos.academy/).
 
-👩🏻‍💻 Currently, I am in a career transition and decided to explore new opportunities in this field.
+👩🏻‍💻 Currently, I'm in a career transition and decided to explore new opportunities in this field.
 
 💻 I have a degree in Sanitary and Environmental Engineering.
 
