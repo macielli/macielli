@@ -35,6 +35,6 @@ In my free time I enjoy doing some gardening, reading a good book, watching seri
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=macielli&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=macielli&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
